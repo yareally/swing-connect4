@@ -2,7 +2,7 @@ Once upon a time, I took a class where I had to write a game in Swing for my mid
 If you have a choice, do not try making a simple game in Swing. Use libgdx instead or better yet, avoid Java all together. Compared to making Solitaire once 
 in Visual Studio with Windows Forms, this was far more painful and endured far longer.
 
-  As a fellow classmate said so eloquently:  
+  As a fellow classmate said so eloquently:    
   Things that take less time than this test took:  
   Training my dog to use the toilet.  
   Waiting for George RR Martins next Game of Thrones book.  
